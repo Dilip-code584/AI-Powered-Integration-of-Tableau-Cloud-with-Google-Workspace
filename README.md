@@ -1,4 +1,4 @@
-# Tableau Cloud // Google Workspace Integration
+Tableau SmartSync // Google Workspace Integration
 
 This document describes the integration between Tableau Cloud and Google Workspace.  It also details how to configure your Tableau Cloud environment to work with Google Workspaces.
 ## What does this do?
@@ -56,9 +56,3 @@ or you can open the [Google Workspace Marketplace](https://workspace.google.com/
 ### Limitations
 * The Smartchips API will match on any URL from Tableau Cloud.  We will only display the smartchip properly, If the link is to a Tableau Viz (either the URL of a viz or the embed link).  All other links will show a generic message instead.
 * This Add-On does not support query string parameters for setting filters/parameters.
-
-### Issues
-Feel free to ask questions or let us know of problems you see to one of these places:
-* As an [issue](https://github.com/takashibinns/tableau-google-workspace-integration/issues) in this github repository
-* The [Tableau Community site](https://community.tableau.com/s/explore-forums)
-* Join the [Tableau Developer program](https://www.tableau.com/developer), then ask questions in the Slack workspace
