@@ -1,4 +1,4 @@
-Tableau SmartSync // Google Workspace Integration
+𝙏𝙖𝙗𝙡𝙚𝙖𝙪 𝙎𝙢𝙖𝙧𝙩𝙎𝙮𝙣𝙘 // 𝙂𝙤𝙤𝙜𝙡𝙚 𝙒𝙤𝙧𝙠𝙨𝙥𝙖𝙘𝙚 𝙄𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣
 
 This document describes the integration between Tableau Cloud and Google Workspace.  It also details how to configure your Tableau Cloud environment to work with Google Workspaces.
 ## What does this do?
